@@ -1,6 +1,3 @@
-# Atrribution-Project
-A Class and Homework Project that was finished on my own. the description is: 
-
 We have a 3rd party lead generator. We pay when lead reaches the following status: Lead status = Converted or Lead status = Retainer Received or ROSU (Referred out, Signed up) = 1
 
 Our CFO needs the billing summed by venue, litigation/casetype, and month.
